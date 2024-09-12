@@ -10,3 +10,6 @@
 [submodule "2024/ProjectSekaiCTF/lib/account-abstraction"]
 	path = 2024/ProjectSekaiCTF/lib/account-abstraction
 	url = https://github.com/eth-infinitism/account-abstraction
+[submodule "2023/Paradigm2023/lib/openzeppelin-contracts"]
+	path = 2023/Paradigm2023/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
